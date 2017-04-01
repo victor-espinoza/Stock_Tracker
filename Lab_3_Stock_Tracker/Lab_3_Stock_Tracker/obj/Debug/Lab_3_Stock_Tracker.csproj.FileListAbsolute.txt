@@ -1,0 +1,15 @@
+E:\CECS 475\Lab 3 - Stock Tracker\Lab_3_Stock_Tracker\Lab_3_Stock_Tracker\bin\Debug\Lab_3_Stock_Tracker.exe.config
+E:\CECS 475\Lab 3 - Stock Tracker\Lab_3_Stock_Tracker\Lab_3_Stock_Tracker\bin\Debug\Lab_3_Stock_Tracker.exe
+E:\CECS 475\Lab 3 - Stock Tracker\Lab_3_Stock_Tracker\Lab_3_Stock_Tracker\bin\Debug\Lab_3_Stock_Tracker.pdb
+E:\CECS 475\Lab 3 - Stock Tracker\Lab_3_Stock_Tracker\Lab_3_Stock_Tracker\obj\Debug\Lab_3_Stock_Tracker.csprojResolveAssemblyReference.cache
+E:\CECS 475\Lab 3 - Stock Tracker\Lab_3_Stock_Tracker\Lab_3_Stock_Tracker\obj\Debug\Lab_3_Stock_Tracker.exe
+E:\CECS 475\Lab 3 - Stock Tracker\Lab_3_Stock_Tracker\Lab_3_Stock_Tracker\obj\Debug\Lab_3_Stock_Tracker.pdb
+C:\Users\Victor Espinoza\Documents\Long Beach\Backup Flash Drive Files\March 2017 Backup\CECS 475\Lab 3 - Stock Tracker\Lab_3_Stock_Tracker\Lab_3_Stock_Tracker\bin\Debug\Lab_3_Stock_Tracker.exe.config
+C:\Users\Victor Espinoza\Documents\Long Beach\Backup Flash Drive Files\March 2017 Backup\CECS 475\Lab 3 - Stock Tracker\Lab_3_Stock_Tracker\Lab_3_Stock_Tracker\obj\Debug\Lab_3_Stock_Tracker.exe
+C:\Users\Victor Espinoza\Documents\Long Beach\Backup Flash Drive Files\March 2017 Backup\CECS 475\Lab 3 - Stock Tracker\Lab_3_Stock_Tracker\Lab_3_Stock_Tracker\obj\Debug\Lab_3_Stock_Tracker.pdb
+C:\Users\Victor Espinoza\Documents\Long Beach\Backup Flash Drive Files\March 2017 Backup\CECS 475\Lab 3 - Stock Tracker\Lab_3_Stock_Tracker\Lab_3_Stock_Tracker\bin\Debug\Lab_3_Stock_Tracker.exe
+C:\Users\Victor Espinoza\Documents\Long Beach\Backup Flash Drive Files\March 2017 Backup\CECS 475\Lab 3 - Stock Tracker\Lab_3_Stock_Tracker\Lab_3_Stock_Tracker\bin\Debug\Lab_3_Stock_Tracker.pdb
+C:\Users\Victor Espinoza\Documents\Long Beach\Backup Flash Drive Files\March 2017 Backup\CECS 475\Lab 3 - Stock Tracker\Lab_3_Stock_Tracker\Lab_3_Stock_Tracker\obj\Debug\Lab_3_Stock_Tracker.csprojResolveAssemblyReference.cache
+C:\Users\Victor Espinoza\Documents\Long Beach\Victor's Projects To Upload\Spring 2016\CECS 475\Lab 3 - Stock Tracker\Lab_3_Stock_Tracker\Lab_3_Stock_Tracker\bin\Debug\Lab_3_Stock_Tracker.exe.config
+C:\Users\Victor Espinoza\Documents\Long Beach\Victor's Projects To Upload\Spring 2016\CECS 475\Lab 3 - Stock Tracker\Lab_3_Stock_Tracker\Lab_3_Stock_Tracker\obj\Debug\Lab_3_Stock_Tracker.exe
+C:\Users\Victor Espinoza\Documents\Long Beach\Victor's Projects To Upload\Spring 2016\CECS 475\Lab 3 - Stock Tracker\Lab_3_Stock_Tracker\Lab_3_Stock_Tracker\obj\Debug\Lab_3_Stock_Tracker.pdb
